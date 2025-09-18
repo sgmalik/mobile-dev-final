@@ -45,15 +45,8 @@ Transform notes → study cards in minutes
 - Generation: call LLM API  
 - Card editor: edit/approve/delete  
 - Study mode: Leitner system  
-- Storage: Core Data or SQLite  
-- Accessibility: Dynamic Type, VoiceOver
-
----
-
-## Out of Scope (POC)
+- Storage: Core Data or SQLite
 - Sharing & collaboration  
-- Advanced analytics  
-- Payments & subscriptions
 
 ---
 
