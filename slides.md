@@ -22,12 +22,13 @@ Transform notes → study cards in minutes
 
 ---
 
-<img width="780" height="1768" alt="screen" src="https://github.com/user-attachments/assets/1907107b-f212-43f6-9a38-b4468ecc21a7" />
+<div style="display: flex; gap: 5rem; justify-content: center">
+<img width="250" alt="screen" src="https://github.com/user-attachments/assets/1907107b-f212-43f6-9a38-b4468ecc21a7" />
 
-<img width="780" height="1768" alt="screen" src="https://github.com/user-attachments/assets/6896a69a-40b4-4a80-8202-42acdc705eb3" />
+<img width="250" alt="screen" src="https://github.com/user-attachments/assets/6896a69a-40b4-4a80-8202-42acdc705eb3" />
 
-<img width="780" height="1768" alt="screen" src="https://github.com/user-attachments/assets/b8556e4e-d775-4bf1-adac-98b3e9389e83" />
-
+<img width="250"  alt="screen" src="https://github.com/user-attachments/assets/b8556e4e-d775-4bf1-adac-98b3e9389e83" />
+</div>
 ---
 
 ## MVP Scope
