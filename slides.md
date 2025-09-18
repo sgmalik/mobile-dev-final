@@ -29,16 +29,6 @@ Transform notes → study cards in minutes
 
 <img width="250"  alt="screen" src="https://github.com/user-attachments/assets/b8556e4e-d775-4bf1-adac-98b3e9389e83" />
 </div>
----
-
-## MVP Scope
-- Capture: camera scan (VisionKit)  
-- OCR: Vision text recognition  
-- Generation: call LLM API  
-- Card editor: edit/approve/delete  
-- Study mode: Leitner system?
-- Storage: Core Data or SQLite
-- Sharing & collaboration  
 
 ---
 
@@ -49,4 +39,15 @@ Transform notes → study cards in minutes
 4. Generate cards → review list  
 5. Edit/approve → save deck  
 6. Practice → self-grade
+
+---
+
+## MVP Scope
+- Capture: camera scan (VisionKit)  
+- OCR: Vision text recognition  
+- Generation: call LLM API  
+- Card editor: edit/approve/delete  
+- Study mode: Leitner system?
+- Storage: Core Data or SQLite
+- Sharing & collaboration  
 
