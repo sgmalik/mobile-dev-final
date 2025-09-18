@@ -16,7 +16,7 @@ Transform notes → study cards in minutes
 
 ## What It Does (POC)
 - Scan or paste notes → extract text with Vision  
-- Send text to LLM → generate Q/A + cloze cards  
+- Send text to LLM → generate Q/A
 - Review, edit, and approve  
 - Practice with simple spaced repetition
 
@@ -50,4 +50,3 @@ Transform notes → study cards in minutes
 - Study mode: Leitner system?
 - Storage: Core Data or SQLite
 - Sharing & collaboration  
-
