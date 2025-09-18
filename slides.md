@@ -50,3 +50,10 @@ Transform notes → study cards in minutes
 - Study mode: Leitner system?
 - Storage: Core Data or SQLite
 - Sharing & collaboration  
+
+---
+
+Thanks
+
+<img width="250" alt="screen" src="PNG.JPG" />
+
